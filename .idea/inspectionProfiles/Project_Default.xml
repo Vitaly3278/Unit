@@ -1,0 +1,17 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="HW.HW.urls.HW1" />
+          <option value="HW.hw2.management.commands.create_user.hw2" />
+          <option value="HW.hw2.management.commands.create_user.models" />
+          <option value="scrum_run.scrumboard.telegram_bot.views.board" />
+          <option value="scrum_run.scrumboard.board.urls.bot" />
+          <option value="scrum_run.scrumboard.board.urls.scrumboard" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
