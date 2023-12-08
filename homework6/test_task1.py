@@ -10,6 +10,7 @@ def list1():
     Fixtures также используются для получения данных для нескольких тестов"""
     return [1, 2, 3, 4, 5]
 
+
 @pytest.fixture
 def list2():
     return [10, 10]
